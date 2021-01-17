@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"junction":{"doc":"Library for working with NTFS junctions.","i":[[5,"create","junction","Creates a junction point from the specified directory to …",null,[[],["result",6]]],[5,"delete","","Deletes a <code>junction</code> reparse point from the specified file …",null,[[["path",3],["asref",8]],["result",6]]],[5,"exists","","Determines whether the specified path exists and refers …",null,[[["path",3],["asref",8]],["result",6]]],[5,"get_target","","Gets the target of the specified junction point.",null,[[["path",3],["asref",8]],[["pathbuf",3],["result",6]]]]],"p":[]}\
+}');
+addSearchOptions(searchIndex);initSearch(searchIndex);
